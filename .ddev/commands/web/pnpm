@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+## Description: Run pnpm commands in the container
+## Usage: pnpm
+## Example: "ddev pnpm"
+
+pnpm "$@"
